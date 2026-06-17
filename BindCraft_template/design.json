@@ -1,0 +1,12 @@
+{
+    "design_path": "Outputs",
+    "binder_name": "251024_A0QP27",
+    "starting_pdb": "AF-A0QP27-F1-model_v4.pdb",
+    "chains": "A",
+    "target_hotspot_residues": "270,670",
+    "lengths": [70, 100],
+    "number_of_final_designs": 100
+}
+
+
+
